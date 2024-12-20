@@ -19,13 +19,13 @@
 - The game evaluates the outcomes of each round, updates the scores, and prints the final results and average points per round.
 
 ## Example Output
-
+```bash
 Player1: 350
 Player2: 420
 Player1: 3.5
 Player2: 4.2
 ## Player Interface
-
+```
 The game utilizes the following `Player` interface to define the required methods and properties for any player participating in the game:
 
 ```csharp
@@ -36,3 +36,4 @@ public interface Player
     public bool NextMove(bool previousMove);
     public void ReceivedPoint(int ReceivedPointFromRound);
 }
+```
