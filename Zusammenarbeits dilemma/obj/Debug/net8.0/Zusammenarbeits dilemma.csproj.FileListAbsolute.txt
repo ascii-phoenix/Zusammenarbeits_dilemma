@@ -1,0 +1,14 @@
+C:\Users\eloik\source\repos\Zusammenarbeits dilemma\bin\Debug\net8.0\Zusammenarbeits dilemma.exe
+C:\Users\eloik\source\repos\Zusammenarbeits dilemma\bin\Debug\net8.0\Zusammenarbeits dilemma.deps.json
+C:\Users\eloik\source\repos\Zusammenarbeits dilemma\bin\Debug\net8.0\Zusammenarbeits dilemma.runtimeconfig.json
+C:\Users\eloik\source\repos\Zusammenarbeits dilemma\bin\Debug\net8.0\Zusammenarbeits dilemma.dll
+C:\Users\eloik\source\repos\Zusammenarbeits dilemma\bin\Debug\net8.0\Zusammenarbeits dilemma.pdb
+C:\Users\eloik\source\repos\Zusammenarbeits dilemma\obj\Debug\net8.0\Zusammenarbeits dilemma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eloik\source\repos\Zusammenarbeits dilemma\obj\Debug\net8.0\Zusammenarbeits dilemma.AssemblyInfoInputs.cache
+C:\Users\eloik\source\repos\Zusammenarbeits dilemma\obj\Debug\net8.0\Zusammenarbeits dilemma.AssemblyInfo.cs
+C:\Users\eloik\source\repos\Zusammenarbeits dilemma\obj\Debug\net8.0\Zusammenarbeits dilemma.csproj.CoreCompileInputs.cache
+C:\Users\eloik\source\repos\Zusammenarbeits dilemma\obj\Debug\net8.0\Zusammenarbeits dilemma.dll
+C:\Users\eloik\source\repos\Zusammenarbeits dilemma\obj\Debug\net8.0\refint\Zusammenarbeits dilemma.dll
+C:\Users\eloik\source\repos\Zusammenarbeits dilemma\obj\Debug\net8.0\Zusammenarbeits dilemma.pdb
+C:\Users\eloik\source\repos\Zusammenarbeits dilemma\obj\Debug\net8.0\Zusammenarbeits dilemma.genruntimeconfig.cache
+C:\Users\eloik\source\repos\Zusammenarbeits dilemma\obj\Debug\net8.0\ref\Zusammenarbeits dilemma.dll
