@@ -20,10 +20,10 @@
 
 ## Example Output
 ```bash
-Player1: 350
-Player2: 420
-Player1: 3.5
-Player2: 4.2
+TitForTatPlayer: 176
+GrudgerPlayer: 181
+TitForTatPlayer: 1.0057143
+GrudgerPlayer: 1.0342857
 ```
 ## Player Interface
 The game utilizes the following `Player` interface to define the required methods and properties for any player participating in the game:
